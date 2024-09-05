@@ -1,2 +1,13 @@
 ./data/*
 ./plots/*
+/.idea/.gitignore
+/.idea/computational-biology-2024.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/plots/sample.png
+/data/hdspikes/shd_test.h5
+/data/hdspikes/shd_test.h5.gz
+/data/hdspikes/shd_train.h5
+/data/hdspikes/shd_train.h5.gz
+/.idea/vcs.xml
